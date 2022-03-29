@@ -1,0 +1,21 @@
+#palabra::before{    
+      color: #c62828;
+      content: "_________";
+    }
+#palabra::after {
+      color: #2e7d32;
+      content: " *";
+}
+  
+  
+#texto::after {
+      color: #2e7d32;
+      content: ": esto no lo he escrito en el";
+      font-size: 20px;
+}
+  
+  
+#revoloteado:hover {
+      color: #6a1b9a;
+}
+  
